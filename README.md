@@ -1,5 +1,4 @@
 Make architechture using Terraform 
-  ![archi drawio](https://github.com/BenHelal/vpc-ec2/assets/114242095/8d54f7cf-2b85-4adc-af19-4d50f839f6f8)
-
+![Diagramme du cas d’utilisation drawio (46)](https://github.com/BenHelal/vpc-ec2/assets/114242095/6bf4ddec-adde-4b9d-b401-821305cb3a22)
 
 region "eu-west-1"
